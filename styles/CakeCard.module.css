@@ -1,0 +1,44 @@
+.general{
+    background-color: rgb(252, 252, 252);
+    margin: 10px;
+    max-width: 400px;
+    min-width: 350px;
+    border: 0px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.general:hover{
+    background-color: rgb(252, 250, 250);
+    box-shadow: 0 2px 4px 0 rgb(142 154 161 / 20%);
+}
+
+.title{
+    /* margin: 5px; */
+    padding-left: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+.img{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a:hover{
+    color: #12d5d4;
+}
+
+.price{
+    margin: 5px;
+    text-align: left;
+    font-size: 18px;
+    padding-left: 10px;
+}

@@ -1,0 +1,28 @@
+.poster{
+    background-image: url(../public/assets/poster_cake.png); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+	margin: 0;
+    color: black;
+	width: 100%;
+	text-align: center;
+    height: 500px;
+    position: relative;
+}
+
+.box{
+    align-items: center;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    padding: 20px 60px;
+    background-color: rgba(255, 255, 255, 0.556);
+}
+
+.title{
+    font-size: 60pt;
+}
+
+.text{
+    color: black;
+}

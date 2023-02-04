@@ -1,0 +1,14 @@
+.outer{
+}
+
+.flex{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 10px;
+    margin-left: -20px;
+}
+
+.cup{
+    flex: 25%;
+    text-align: center;
+}

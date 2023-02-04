@@ -1,0 +1,25 @@
+.general{
+    background-color: white;
+    margin: 10px;
+    border: 0px;
+    border-radius: 2px;
+    padding: 20px 30px;
+    /* text-align: center; */
+    display:flex;
+}
+
+.title{
+    font-size: 18px;
+}
+
+
+.box{
+    position: relative;
+}
+
+.desc_box{
+    padding: 20px;
+    width: 50%;
+    margin: 0px 40px 10px 40px;
+    font-size: 16px;
+}
